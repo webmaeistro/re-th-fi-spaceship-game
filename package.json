@@ -1,7 +1,7 @@
 {
   "name": "react-three-fiber-spaceship-game",
   "version": "1.1.0",
-  "description": "",
+  "description": "JS 3D spaceship shooting game",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
